@@ -68,7 +68,7 @@ Manual Testing 🧪 · Selenium 💻  · Python 🐍
 
 ### 🏆 GitHub Trophies
 
-<img src="https://github-profile-trophy.vercel.app/?username=wmipkumara&theme=flat&row=1&column=6" alt="GitHub Trophies" />
+<img src="https://github-profile-trophy.vercel.app/?username=wmipkumara&theme=flat&row=1&column=2" alt="GitHub Trophies" />
 
 ---
 
